@@ -35,9 +35,7 @@ The main objectives of this project are to:
 | ---------- | -------------------------------------------------------- |
 | Python     | Data cleaning, transformation, exploratory data analysis |
 | Pandas     | Data manipulation and analysis                           |
-| NumPy      | Numerical operations                                     |
-| Matplotlib | Data visualization                                       |
-| Seaborn    | Statistical data visualization                           |
+| NumPy      | Numerical operations                                     |                                       |                          |
 | MySQL      | Data storage and SQL analysis                            |
 | Power BI   | Interactive dashboard and business reporting             |
 
